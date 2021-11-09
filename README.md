@@ -38,7 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contributions and Questions
 Check out our [documentation]()
 #### Contact: Contributors
-Madhu Kumar Dogiparthy | Graduate Student at VCU, Virginia, USA | dogiparthym@vcu.edu
-Goodness Isioma Nwabueze | Graduate Student at VCU, Virginia, USA | nwabuezeg@vcu.edu
+- Madhu Kumar Dogiparthy | Graduate Student at VCU, Virginia, USA | dogiparthym@vcu.edu
+- Goodness Isioma Nwabueze | Graduate Student at VCU, Virginia, USA | nwabuezeg@vcu.edu
 
 We are open to your contributions and questions. 
