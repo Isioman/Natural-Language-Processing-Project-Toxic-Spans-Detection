@@ -35,6 +35,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Isioman/data_science_projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contributions and Questions
+Check out our [documentation]()
+#### Contact: Contributors
+Madhu Kumar Dogiparthy | Graduate Student at VCU, Virginia, USA | dogiparthym@vcu.edu
+Goodness Isioma Nwabueze | Graduate Student at VCU, Virginia, USA | nwabuezeg@vcu.edu
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We are open to your contributions and questions. 
