@@ -5,11 +5,8 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 
 ### Cloning the repository
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+- The full implementation for the system can be found on colab 
+- You can also clone our repository directly using this [link]()
 
 # Header 1
 ## Header 2
