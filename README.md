@@ -6,10 +6,9 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 ### Cloning the repository
 - The full implementation for the system can be found on colab 
-- You can also clone our repository directly using this [link]()
+- You can also clone our repository directly using this format below.
 
-
-
+```
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
