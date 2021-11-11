@@ -8,15 +8,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 - The full implementation for the system can be found on colab 
 - You can also clone our repository directly using this [link]()
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
