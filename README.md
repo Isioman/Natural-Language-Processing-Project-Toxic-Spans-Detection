@@ -6,11 +6,12 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 ### Cloning the repository
 - The full implementation for the system can be found on [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Toxic_Spans_Detection.ipynb)
-- Below are the following steps to run the implementation
 
-```
+#### Below are the following steps to run the implementation
+
 - First: Download the Data file to your Google drive. 
   ![download Dataset](https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Downloaddataset.png)
+  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 - Second: Ensure that the dataset file name is the same as the filename in the colab file.
 
 - Third: if it is different, rename the data filename to match the colab file name. If not, skip to step Four
@@ -19,7 +20,6 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 - Five: Apply step 4 to apply to train, test and trial.
 
-```
 
 
 ### Contributions and Questions
