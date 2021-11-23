@@ -5,7 +5,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 
 ### Cloning the repository
-- The full implementation for the system can be found on [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Copy_of_Toxic_Spans_Detection.ipynb)
+- The full implementation for the system can be found on [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Toxic_Spans_Detection.ipynb)
 - Below are the following steps to run the implementation
 
 ```
