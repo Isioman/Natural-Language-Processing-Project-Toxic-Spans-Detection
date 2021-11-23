@@ -9,9 +9,8 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 #### Below are the following steps to run the implementation
 
-- First: Download the Data file to your Google drive. 
-  ![download Dataset](https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Downloaddataset.png)
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Downloaddataset.png" width="100" height="100">
+- First: Download the Data file to your Google drive.
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Downloaddataset.png" width="400" height="400">
   
 - Second: Ensure that the dataset file name is the same as the filename in the colab file.
 
