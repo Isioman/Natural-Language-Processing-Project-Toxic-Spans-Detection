@@ -9,10 +9,15 @@ Rapid growth and increased interaction on social media promoted good awareness a
 - Below are the following steps to run the implementation
 
 ```
-- First: Download the Data file to your Google drive
-- Second: Ensure that the dataset file name is the name as the filename in the colab file.
-- Third: if it is different rename the data filename to match the colab file name. If not, skip to step Four
-- Four:  
+- First: Download the Data file to your Google drive. 
+
+- Second: Ensure that the dataset file name is the same as the filename in the colab file.
+
+- Third: if it is different, rename the data filename to match the colab file name. If not, skip to step Four
+
+- Four: To download the data to your colab, go to your drive and right click on the the data file, click on link and copy the file id in the link to the colab.
+
+- Five: Apply step 4 to apply to train, test and trial.
 
 ```
 
