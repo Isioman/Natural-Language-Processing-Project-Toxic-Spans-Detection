@@ -35,7 +35,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/5.png" width="400" height="400">
  2. Other procedures to look out for include:
-    - Ensuring the drive is mounted.
+    - Ensuring the drive is always mounted for easy reading and writing of data.
 
 ### Contributions and Questions
 #### Contact: Contributors
