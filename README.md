@@ -20,7 +20,22 @@ Rapid growth and increased interaction on social media promoted good awareness a
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/download_data_from_drive_to_colab.png" width="400" height="400">
 
 - Step 5: Apply step 4 to apply to train, test and trial.
-
+- Step 6: To run the model, you can change the default settings to GPU
+  <br/>
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/4.png" width="400" height="400">
+  
+ #### Side Notes:
+ 1. A common error that can occur is excedding the allocation of GPU. To solve this:
+ - After running the model and analyzing the metrics, ensure you empty cache before rerun the experiments. 
+ <br/>
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/5.png" width="400" height="400">
+  
+ Another Option is to:
+ - Rerun the model by selecting the options in Runtime -> Restart and Run all.
+ <br/>
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/6.png" width="400" height="400">
+ 2. Other procedures to look out for include:
+  - Ensuring the drive is mounted.
 
 ### Contributions and Questions
 #### Contact: Contributors
