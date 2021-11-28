@@ -26,16 +26,16 @@ Rapid growth and increased interaction on social media promoted good awareness a
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Link - 1.jpg" width="600" >
 
 - Step 8: Paste the copied file id contents in colab file under "Download the train, trial and test data file" section
-<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Paste the file ID.jpg" width="400" height="400">
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Paste the file ID.jpg" width="600">
 
 - Step 9: Repeat Step 5, Step 6 and Step 7 for trial(tsd_trial.csv) and test(tsd_test.csv) data files
 - Step 10: To run the model, first change the Runtime type to GPU.
  <br/>
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type-1.jpg" width="400" height="300">
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type.jpg" width="400" height="300">
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type-1.jpg" width="600">
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type.jpg" width="600">
   
  - Step 11: Select "Run all" option to execute the code
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="400" height="400">
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="600">
   
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
