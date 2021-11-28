@@ -15,7 +15,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 - Step 5: To download the data to your colab, go to your Google drive and right click on the the "tsd_train.csv" data file. Select "Get link" in the right-click options
 <br/>
-<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="50" height="400">
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="400" height="400">
 
 - Step 6: A new window "Get link" will be opened. Copy the highlighted portion which represents the file id of tsd_train.csv file.
  <br/>
