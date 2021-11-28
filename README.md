@@ -5,40 +5,34 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 - Step 1: The full implementation for the system can be found on Google colab. Click on the icon [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Toxic_Spans_Detection.ipynb) to redirect you to the program.
 
-- Step 2: Download the Train, Trial and Test Data files to your Google drive from the "Data" folder.
-  <br/>
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Downloaddataset.png" width="400" height="400">
+- Step 2: Download the entire code to your local machine from Github.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Download Code.png" width="400" height="300">
   
-- Step 3: Ensure that the respective data set file names are same as the file names mentioned inside colab.
+- Step 3: Upload the data files (tsd_train.csv, tsd_trial.csv and tsd_test.csv) from your local machine either windows or Linux  to your Google Drive. 
+- Open your Google Drive, select "My Drive" option and then right-click on it.
+- Select Upload files
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Upload Files.png" width="400" height="300">
 
-- Step 4: If it is different, rename the data filenames to match the file names mentioned inside colab.
-
-- Step 5: To download the data to your colab, go to your Google drive and right click on the the "tsd_train.csv" data file. Select "Get link" in the right-click options
+- Step 4: To download the data to your colab, go to your Google drive and right click on the the "tsd_train.csv" data file. Select "Get link" in the right-click options
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="400" height="400">
 
-- Step 6: A new window "Get link" will be opened. Copy the highlighted portion which represents the file id of tsd_train.csv file.
+- Step 5: A new window "Get link" will be opened. Copy the highlighted portion which represents the file id of tsd_train.csv file.
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Link - 1.jpg" width="400" height="400">
 
-- Step 7: Paste the copied file id contents in colab file under "Download the train, trial and test data file" section
+- Step 6: Paste the copied file id contents in colab file under "Download the train, trial and test data file" section
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Paste the file ID.jpg" width="400" height="400">
 
-- Step 8: Repeat Step 5, Step 6 and Step 7 for trial and test data files
-- Step 9: To run the model, initially change the default settings to GPU
+- Step 7: Repeat Step 5, Step 6 and Step 7 for trial(tsd_trial.csv) and test(tsd_test.csv) data files
+- Step 8: To run the model, first change the Runtime type to GPU.
  <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type-1.jpg" width="400" height="300">
-  <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type.jpg" width="400" height="300">
   
- - Step 10: Select "Run all" option to run the code
+ - Step 9: Select "Run all" option to execute the code
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="400" height="400">
   
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
-  - After running the model and analyzing the metrics, ensure you empty cache before rerun the experiments. 
- <br/>
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/6.png" width="400" height="400">
-  <br/>
- Another Option is to:
   - Rerun the model by selecting the options in Runtime -> Restart and Run all.
  <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/5.png" width="400" height="400">
