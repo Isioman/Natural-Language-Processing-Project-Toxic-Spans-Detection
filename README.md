@@ -3,22 +3,22 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 #### Below are the following steps to run the implementation
 
-- Step 1: The full implementation for the system can be found on colab. Click on the icon to redirect you to the program. [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Toxic_Spans_Detection.ipynb)
+- Step 1: The full implementation for the system can be found on Google colab. Click on the icon [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Toxic_Spans_Detection.ipynb) to redirect you to the program.
 
-- Step 2: Download the Data file to your Google drive.
+- Step 2: Download the Train, Trial and Test Data files to your Google drive from the "Data" folder.
   <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Downloaddataset.png" width="400" height="400">
   
-- Step 3: Ensure that the dataset file name is the same as the filename in the colab file.
+- Step 3: Ensure that the respective data set file names are same as the respective file names mentioned inside colab.
 
-- Step 4: if it is different, rename the data filename to match the colab file name. If not, skip to step Four
+- Step 4: If it is different, rename the data filenames to match the file names mentioned inside colab.
 
-- Step 5: To download the data to your colab, go to your drive and right click on the the data file, click on link and copy the file id in the link to the colab.
+- Step 5: To download the data to your colab, go to your drive and right click on the the data file, click on link and copy the file id in the link to colab.
   <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/download_data_from_drive_to_colab.png" width="400" height="400">
 
-- Step 6: Apply step 4 to apply to train, test and trial.
-- Step 7: To run the model, you can change the default settings to GPU
+- Step 6: Repeat Step 5 for train, trial and test data files
+- Step 7: To run the model, change the default settings to GPU
   <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/4.png" width="400" height="400">
   
