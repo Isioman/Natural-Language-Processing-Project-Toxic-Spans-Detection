@@ -31,7 +31,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
   - After running the model and analyzing the metrics, ensure you empty cache before rerun the experiments. 
  <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/6.png" width="400" height="400">
-  
+  <br/>
  Another Option is to:
   - Rerun the model by selecting the options in Runtime -> Restart and Run all.
  <br/>
