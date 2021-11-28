@@ -15,31 +15,31 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 - Step 5: To download the data to your colab, go to your Google drive and right click on the the "tsd_train.csv" data file. Select "Get link" in the right-click options
 <br/>
-<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="700" height="400">
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="100" height="400">
 
 - Step 6: A new window "Get link" will be opened. Copy the highlighted portion which represents the file id of tsd_train.csv file.
  <br/>
-<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Link - 1.jpg" width="400" height="400">
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Link - 1.jpg" width="500" height="400">
 
 - Step 7: Paste the copied file id contents in colab file under "Download the train, trial and test data file" section
 <br/>
-<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Paste the file ID.jpg.jpg" width="700" height="400">
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Paste the file ID.jpg" width="500" height="400">
 
 - Step 8: Repeat Step 5 for train, trial and test data files
 - Step 9: To run the model, change the default settings to GPU
   <br/>
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/4.png" width="700" height="400">
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/4.png" width="500" height="400">
   
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
   - After running the model and analyzing the metrics, ensure you empty cache before rerun the experiments. 
  <br/>
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/6.png" width="700" height="400">
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/6.png" width="500" height="400">
   
  Another Option is to:
   - Rerun the model by selecting the options in Runtime -> Restart and Run all.
  <br/>
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/5.png" width="700" height="400">
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/5.png" width="500" height="400">
  2. Other procedures to look out for include:
     - Ensuring the drive is always mounted for easy reading and writing of data.
 
