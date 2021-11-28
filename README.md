@@ -9,7 +9,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Download Code.png" width="400" height="300">
   
 - Step 3: Unzip the downloaded folder to retrieve the contained folders.
-    Click [here](https://linuxize.com/post/how-to-unzip-files-in-linux/) to know more details about installing unzip package in Linux and then execute the unzip command.
+  * Click [here](https://linuxize.com/post/how-to-unzip-files-in-linux/) to know more details about installing unzip package in Linux and then execute the unzip command.
     
 - Step 4: Upload the data files (tsd_train.csv, tsd_trial.csv and tsd_test.csv) from your local machine(<...>/Natural-Language-Processing-Project-Toxic-Spans-Detection-main/Data) to your Google Drive. 
   * Open your Google Drive, select "My Drive" option and then right-click on it.
