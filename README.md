@@ -9,7 +9,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
   <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Downloaddataset.png" width="400" height="400">
   
-- Step 3: Ensure that the respective data set file names are same as the respective file names mentioned inside colab.
+- Step 3: Ensure that the respective data set file names are same as the file names mentioned inside colab.
 
 - Step 4: If it is different, rename the data filenames to match the file names mentioned inside colab.
 
@@ -22,9 +22,13 @@ Rapid growth and increased interaction on social media promoted good awareness a
 - Step 7: Paste the copied file id contents in colab file under "Download the train, trial and test data file" section
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Paste the file ID.jpg" width="400" height="400">
 
-- Step 8: Repeat Step 5 for train, trial and test data files
-- Step 9: To run the model, change the default settings to GPU
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/4.png" width="400" height="400">
+- Step 8: Repeat Step 5, Step 6 and Step 7 for trial and test data files
+- Step 9: To run the model, initially change the default settings to GPU
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type-1.jpg" width="400" height="400">
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type.jpg" width="400" height="400">
+  
+ - Step 10: Select "Run all" option to run the code
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="400" height="400">
   
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
