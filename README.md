@@ -12,12 +12,12 @@ Rapid growth and increased interaction on social media promoted good awareness a
     Click [here](https://linuxize.com/post/how-to-unzip-files-in-linux/) to know more details about installing unzip package in Linux and then execute the unzip command.
     
 - Step 3: Upload the data files (tsd_train.csv, tsd_trial.csv and tsd_test.csv) from your local machine(<...>/Natural-Language-Processing-Project-Toxic-Spans-Detection-main/Data) to your Google Drive. 
-      - Open your Google Drive, select "My Drive" option and then right-click on it.
-      - Select Upload files
+ * Open your Google Drive, select "My Drive" option and then right-click on it.
+ * Select Upload files
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Upload Files.png" width="400" height="300">
 
 - Step 4: Open the directory where the data files are present and select them to upload them to your Google Drive.
-<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Data Folder.png" width="400" height="300">
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Data Folder.jpg" width="400" height="300">
 
 - Step 5: To download the data to your colab, go to your Google drive and right click on the the "tsd_train.csv" data file. Select "Get link" in the right-click options
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="400" height="400">
