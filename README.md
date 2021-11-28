@@ -25,9 +25,9 @@ Rapid growth and increased interaction on social media promoted good awareness a
 - Step 8: Repeat Step 5, Step 6 and Step 7 for trial and test data files
 - Step 9: To run the model, initially change the default settings to GPU
  <br/>
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type-1.jpg" width="400" height="400">
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type-1.jpg" width="400" height="300">
   <br/>
-  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type.jpg" width="400" height="400">
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Change run time type.jpg" width="400" height="300">
   
  - Step 10: Select "Run all" option to run the code
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="400" height="400">
