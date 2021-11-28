@@ -6,7 +6,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 - Step 1: The full implementation for the system can be found on Google colab. Click on the icon [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Toxic_Spans_Detection.ipynb) to redirect you to the program.
 
 - Step 2: Download the entire code to your local machine from Github.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Download Code.png" width="400">
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Download Code.png" width="500">
   
 - Step 3: Unzip the downloaded folder to retrieve the contained folders.
   * Click [here](https://linuxize.com/post/how-to-unzip-files-in-linux/) to know more details about installing unzip package in Linux and then execute the unzip command.
@@ -17,7 +17,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Upload Files.png" width="600">
 
 - Step 5: Open the directory where the data files are present and select them to upload them to your Google Drive.
-<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Data Folder.jpg" width="600">
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Data Folder.jpg" width="400">
 
 - Step 6: To download the data to your colab, go to your Google drive and right click on the the "tsd_train.csv" data file. Select "Get link" in the right-click options
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="600">
