@@ -17,7 +17,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Upload Files.png" width="450">
 
 - Step 5: Open the directory where the data files are present and select them to upload them to your Google Drive.
-<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Data Folder.jpg" width="700">
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Data Folder.jpg" width="700" height = "700">
 
 - Step 6: To download the data to your colab, go to your Google drive and right click on the the "tsd_train.csv" data file. Select "Get link" in the right-click options
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="500">
