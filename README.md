@@ -14,20 +14,16 @@ Rapid growth and increased interaction on social media promoted good awareness a
 - Step 4: If it is different, rename the data filenames to match the file names mentioned inside colab.
 
 - Step 5: To download the data to your colab, go to your Google drive and right click on the the "tsd_train.csv" data file. Select "Get link" in the right-click options
-<br/>
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Right click options.jpg" width="400" height="400">
 
 - Step 6: A new window "Get link" will be opened. Copy the highlighted portion which represents the file id of tsd_train.csv file.
- <br/>
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/File Link - 1.jpg" width="400" height="400">
 
 - Step 7: Paste the copied file id contents in colab file under "Download the train, trial and test data file" section
-<br/>
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Paste the file ID.jpg" width="400" height="400">
 
 - Step 8: Repeat Step 5 for train, trial and test data files
 - Step 9: To run the model, change the default settings to GPU
-  <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/4.png" width="400" height="400">
   
  #### Side Notes:
