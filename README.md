@@ -8,10 +8,17 @@ Rapid growth and increased interaction on social media promoted good awareness a
 - Step 2: Download the entire code to your local machine from Github.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Download Code.png" width="500">
   
-- Step 3: Unzip the downloaded folder to retrieve the contained folders.
-  * Click [here](https://linuxize.com/post/how-to-unzip-files-in-linux/) to know more details about installing unzip package in Linux and then execute the unzip command.
-    
-- Step 4: Upload the data files (tsd_train.csv, tsd_trial.csv and tsd_test.csv) from your local machine(<...>/Natural-Language-Processing-Project-Toxic-Spans-Detection-main/Data) to your Google Drive. 
+- Step 3: Ensure that a zip folder with name "Natural-Language-Processing-Project-Toxic-Spans-Detection-main.zip" is downloaded to your local machine.
+- Step 4: Open the folder where the zip file is downloaded.
+<img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Open download folder.jpg" width="450">
+- Step 5: Unzip the downloaded folder to retrieve the contained folders.
+  * To unzip the folder using command prompt: Click [here](https://linuxize.com/post/how-to-unzip-files-in-linux/) to know more details about installing unzip package in Linux and then execute the unzip command.
+  * To unzip the folder from the file explorer window
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Extract Here.jpg" width="450">
+- Step 6: Ensure that following folders and files are located in the extracted folder.
+    <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Contents of folder.jpg" width="450">
+- Step 7: Sign in to your Google Drive from the browser "https://www.google.com/drive/".
+- Step 8: Upload the data files (tsd_train.csv, tsd_trial.csv and tsd_test.csv) from your local machine (<...>/Natural-Language-Processing-Project-Toxic-Spans-Detection-main/Data) to your Google Drive. 
   * Open your Google Drive, select "My Drive" option and then right-click on it.
   * Select Upload files
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Upload Files.png" width="450">
