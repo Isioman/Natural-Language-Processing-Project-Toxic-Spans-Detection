@@ -17,7 +17,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Extract Here.jpg" width="450">
 - Step 6: Ensure that following folders and files are located in the extracted folder.
     <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Contents of folder.jpg" width="450">
-- Step 7: Sign in to your Google Drive from the browser "https://www.google.com/drive/".
+- Step 7: Sign in to your Google Drive from the browser. [Google Drive] ("https://www.google.com/drive/")
 - Step 8: Upload the data files (tsd_train.csv, tsd_trial.csv and tsd_test.csv) from your local machine (<...>/Natural-Language-Processing-Project-Toxic-Spans-Detection-main/Data) to your Google Drive. 
   * Open your Google Drive, select "My Drive" option and then right-click on it.
   * Select Upload files
