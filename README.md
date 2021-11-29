@@ -11,7 +11,9 @@ Rapid growth and increased interaction on social media promoted good awareness a
   
 - Step 3: Ensure that a zip folder with name "Natural-Language-Processing-Project-Toxic-Spans-Detection-main.zip" is downloaded to your local machine.
 - Step 4: Open the folder where the zip file is downloaded. Select "Show all Downloads" from the browser (E.g: firefox) 
+  * Select "Show all Downloads" from the browser (E.g: firefox) 
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Show all downloads.jpg" width="500">
+ * Right-click on the page that gets opened and select "Open Containing Folder" option.
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Open download folder.jpg" width="450">
 
 - Step 5: Unzip the downloaded folder to retrieve the contained folders.
