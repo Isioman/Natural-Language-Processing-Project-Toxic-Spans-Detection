@@ -75,7 +75,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  - **Step 24:** Copy the verification code by clicking on the highlighted icon.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
  
- - **Step 25: To view the saved files, 
+ - **Step 25**: To view the saved files, 
  
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
