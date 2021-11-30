@@ -56,8 +56,9 @@ Rapid growth and increased interaction on social media promoted good awareness a
    <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
  - Step 13: Select the account to sign in.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Select Google Account.jpg" width="600">
+ 
  - Step 14: Click on the "Sign In" button.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Sign in button.jpg" width="600">
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Sign in buton.jpg" width="400">
  - Step 15: Copy the verification code by clicking on the highlighted icon.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
 
@@ -65,7 +66,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  - Step 17: Click on the hyperlink that is shown.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
  - Step 18: Select the account to sign in.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Select Google Account.jpg" width="600">
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Select Google Account.jpg" width="400">
  - Step 19: Click on the "Allow" button.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Click Allow.jpg" width="600">
  - Step 20: Copy the verification code by clicking on the highlighted icon.
