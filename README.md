@@ -57,9 +57,11 @@ Rapid growth and increased interaction on social media promoted good awareness a
    <br/>
  - Step 13: Click on the "Sign In" button.
  - Step 14: Copy the verification code by clicking on the highlighted icon.
- - Step 15: Paste the copied verification code in the Colab Cell and press Enter.
+
  - Step 16: Similary, when the files are being downloaded, we need to provide a verification code.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
+ 
+ - Step 15: Paste the copied verification code in the Colab Cell and press Enter.
  - Step 17: Click on the hyperlink that is shown.
  - Step 18: Click on "Sign In" button.
  - Step 19: Copy the verification code by clicking on the highlighted icon.
