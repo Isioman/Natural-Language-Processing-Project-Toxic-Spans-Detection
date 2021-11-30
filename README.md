@@ -56,16 +56,14 @@ Rapid growth and increased interaction on social media promoted good awareness a
    <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
    <br/>
  - Step 13: Click on the "Sign In" button.
-   * Copy the verification code by clicking on the highlighted icon.
-   * Paste the copied verification code in the Colab Cell and press Enter.
-
-  - Step 13: Similary, when the files are being downloaded, we need to provide a verification code.
-   * To Click on the hyperlink that is shown.
-   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
-   <br/>
-   * Click on "Sign In" button.
-   * Copy the verification code by clicking on the highlighted icon.
-   * Paste the copied verification code in the Colab Cell and press Enter.
+ - Step 14: Copy the verification code by clicking on the highlighted icon.
+ - Step 15: Paste the copied verification code in the Colab Cell and press Enter.
+ - Step 16: Similary, when the files are being downloaded, we need to provide a verification code.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
+ - Step 17: Click on the hyperlink that is shown.
+ - Step 18: Click on "Sign In" button.
+ - Step 19: Copy the verification code by clicking on the highlighted icon.
+ - Step 20: Paste the copied verification code in the Colab Cell and press Enter.
  
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
