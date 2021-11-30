@@ -65,6 +65,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  - **Step 20:** Similary, when the files are being downloaded, we need to provide a verification code. 
  - **Step 21:** Click on the hyperlink that is shown.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
+ <br>
  - **Step 22:** Select the account to sign in.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Select Google Account.jpg" width="400">
  - **Step 23:** Click on the **"Allow"** button.
