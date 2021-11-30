@@ -63,7 +63,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
    * To Click on the hyperlink that is shown.
    <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
    <br/>
-   * Click on "Sign In"
+   * Click on "Sign In" button.
    * Copy the verification code by clicking on the highlighted icon.
    * Paste the copied verification code in the Colab Cell and press Enter.
  
