@@ -61,9 +61,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
  - **Step 19:** Copy the verification code by clicking on the highlighted icon.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
-  - **Step 19:** Copy the verification code by clicking on the highlighted icon.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
-
+ - Step 20:
  - **Step 20:** Similary, when the files are being downloaded, we need to provide a verification code. 
  - **Step 21:** Click on the hyperlink that is shown.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
