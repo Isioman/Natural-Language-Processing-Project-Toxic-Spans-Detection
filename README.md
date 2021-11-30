@@ -51,8 +51,14 @@ Rapid growth and increased interaction on social media promoted good awareness a
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="600">
  
  - Step 11: Select "Run all" option to execute the code
+ - Step 5: Unzip the downloaded folder to retrieve the contained folders.
+   * To unzip the folder using command prompt: Click [here](https://linuxize.com/post/how-to-unzip-files-in-linux/) to know more details about installing unzip package in Linux and then execute the unzip command.
+   * To unzip the folder from the file explorer window
+  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Extract Here.jpg" width="450">
+
+
  - Step 12: When the cell corresponding Mount to Drive is executed, we need to provide a verification code.
-    * To Click on the hyperlink that is shown.
+  * To Click on the hyperlink that is shown.
    <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
     * Click on "Sign In"
     * Copy the verification code by clicking on the highlighted icon.
