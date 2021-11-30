@@ -13,7 +13,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 - Step 4: Open the folder where the zip file is downloaded. Select "Show all Downloads" from the browser (E.g: firefox) 
   * Select "Show all Downloads" from the browser (E.g: firefox) 
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Show all downloads.jpg" width="500">
- * Right-click on the page that gets opened and select "Open Containing Folder" option.
+  * Right-click on the page that gets opened and select "Open Containing Folder" option.
 <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Open download folder.jpg" width="450">
 
 - Step 5: Unzip the downloaded folder to retrieve the contained folders.
@@ -49,10 +49,20 @@ Rapid growth and increased interaction on social media promoted good awareness a
   
  - Step 11: Select "Run all" option to execute the code
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="600">
+ 
+ - Step 11: Select "Run all" option to execute the code
  - Step 12: When the cell corresponding Mount to Drive is executed, we need to provide a verification code.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
- - Step 13: Similary, when the files are being downloaded, we need to provide a verification code.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 2.jpg" width="600">
+    * To Click on the hyperlink that is shown.
+   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
+    * Click on "Sign In"
+    * Copy the verification code by clicking on the highlighted icon.
+    * Paste the copied verification code in the Colab Cell and press Enter.
+  - Step 13: Similary, when the files are being downloaded, we need to provide a verification code.
+    * To Click on the hyperlink that is shown.
+    <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 2.jpg" width="600">
+    * Click on "Sign In"
+    * Copy the verification code by clicking on the highlighted icon.
+    * Paste the copied verification code in the Colab Cell and press Enter.
   
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
