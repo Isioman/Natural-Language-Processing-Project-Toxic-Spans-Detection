@@ -54,17 +54,22 @@ Rapid growth and increased interaction on social media promoted good awareness a
  - Step 12: When the cell corresponding Mount to Drive is executed, we need to provide a verification code.
    * Click on the hyperlink that is shown.
    <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
-   <br/>
- - Step 13: Click on the "Sign In" button.
- - Step 14: Copy the verification code by clicking on the highlighted icon.
+ - Step 13: Select the account to sign in.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Select Google Account.jpg" width="600">
+ - Step 14: Click on the "Sign In" button.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Sign in button.jpg" width="600">
+ - Step 15: Copy the verification code by clicking on the highlighted icon.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
 
- - Step 15: Similary, when the files are being downloaded, we need to provide a verification code.
+ - Step 16: Similary, when the files are being downloaded, we need to provide a verification code. 
+ - Step 17: Click on the hyperlink that is shown.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
- 
- - Step 16: Click on the hyperlink that is shown.
- - Step 17: Click on "Sign In" button.
- - Step 18: Copy the verification code by clicking on the highlighted icon.
- - Step 19: Paste the copied verification code in the Colab Cell and press Enter.
+ - Step 18: Select the account to sign in.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Select Google Account.jpg" width="600">
+ - Step 19: Click on the "Allow" button.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Click Allow.jpg" width="600">
+ - Step 20: Copy the verification code by clicking on the highlighted icon.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
  
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
