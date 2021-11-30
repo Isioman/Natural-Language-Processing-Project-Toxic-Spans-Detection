@@ -53,7 +53,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  - Step 11: Select "Run all" option to execute the code
  - Step 12: When the cell corresponding Mount to Drive is executed, we need to provide a verification code.
    * Click on the hyperlink that is shown.
-     <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
+   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
    * Click on "Sign In"
    * Copy the verification code by clicking on the highlighted icon.
    * Paste the copied verification code in the Colab Cell and press Enter.
