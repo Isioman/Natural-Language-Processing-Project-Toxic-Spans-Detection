@@ -71,7 +71,6 @@ Rapid growth and increased interaction on social media promoted good awareness a
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Click Allow.jpg" width="600">
  - **Step 24:** Copy the verification code by clicking on the highlighted icon.
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
- 
  - **Step 25: To view the saved files, 
  
  #### Side Notes:
