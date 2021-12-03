@@ -9,6 +9,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="600">
  
  - **Step 3**: To view the saved files, you can find it in the google drive linked to the Colab.
+ <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/view_results.png" width="600">
  
  #### Side Notes:
  1. A common error that can occur is exceeding the allocation of GPU. To solve this:
