@@ -3,7 +3,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
 
 #### Below are the steps to run the implementation
 
-- **Step 1:** The full implementation for the system can be found on Google colab. Click on the icon [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Toxic_Spans_Detection_Project.ipynb, '_blank') to redirect you to the program.
+- **Step 1:** The full implementation for the system can be found on Google colab. Click on the icon [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Toxic_Spans_Detection_Project.ipynb, target="_blank") to redirect you to the program.
 
  - **Step 2:** Select **"Run all"** option to execute the code
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="600">
