@@ -12,7 +12,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
-  - Rerun the model by selecting the options in Runtime -> Restart and Run all.
+   - Rerun the model by selecting the options in Runtime -> Restart and Run all.
  <br/>
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/5.png" width="400" height="400">
   
@@ -20,9 +20,10 @@ Rapid growth and increased interaction on social media promoted good awareness a
     - Ensuring the drive is always mounted for easy reading and writing of data.
     
  3. Ensure the cell corresponding Mount to Drive is executed, we need to provide a verification code.
-   - Click on the hyperlink that is shown.
+    - Click on the hyperlink that is shown.
    <br/>
    <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
+   
 ### Contributions and Questions
 #### Contact: Contributors
 - Madhu Kumar Dogiparthy | Graduate Student at VCU, Virginia, USA | dogiparthym@vcu.edu
