@@ -8,32 +8,7 @@ Rapid growth and increased interaction on social media promoted good awareness a
  - **Step 2:** Select **"Run all"** option to execute the code
  <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Run all option.jpg" width="600">
  
- - **Step 3:** When the cell corresponding Mount to Drive is executed, we need to provide a verification code.
-   * Click on the hyperlink that is shown.
-   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
- - **Step 4:** Select the account to sign in.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Select Google Account.jpg" width="600">
- 
- - **Step 5:** Click on the **"Sign In"** button.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Sign in buton.jpg" width="400">
-
- - **Step 6:** Copy the verification code by clicking on the highlighted icon.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
-
- - **Step 7:** Similary, when the files are being downloaded, we need to provide a verification code. 
- - **Step 8:** Click on the hyperlink that is shown.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
-
- - **Step 9:** Select the account to sign in.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Select Google Account.jpg" width="400">
- 
- - **Step 10:** Click on the **"Allow"** button.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Click Allow.jpg" width="600">
- 
- - **Step 11:** Copy the verification code by clicking on the highlighted icon.
- <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Copy Verification Code.jpg" width="600">
- 
- - **Step 12**: To view the saved files, 
+ - **Step 3**: To view the saved files, you can find it in the google drive linked to the Colab.
  
  #### Side Notes:
  1. A common error that can occur is excedding the allocation of GPU. To solve this:
@@ -42,7 +17,10 @@ Rapid growth and increased interaction on social media promoted good awareness a
   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/5.png" width="400" height="400">
  2. Other procedures to look out for include:
     - Ensuring the drive is always mounted for easy reading and writing of data.
-
+ 3. Ensure the cell corresponding Mount to Drive is executed, we need to provide a verification code.
+   - Click on the hyperlink that is shown.
+   <img src="https://github.com/Isioman/Natural-Language-Processing-Project-Toxic-Spans-Detection/blob/main/Images/Mount Google Drive - 1.jpg" width="600">
+ 4.
 ### Contributions and Questions
 #### Contact: Contributors
 - Madhu Kumar Dogiparthy | Graduate Student at VCU, Virginia, USA | dogiparthym@vcu.edu
